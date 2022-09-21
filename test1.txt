@@ -1,0 +1,1 @@
+This is a testfile to test automatic close of an issue.
