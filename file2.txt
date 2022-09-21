@@ -1,0 +1,1 @@
+Added file2.txt to close issue #3
